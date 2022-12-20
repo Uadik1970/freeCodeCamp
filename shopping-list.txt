@@ -1,0 +1,7 @@
+const myList = [];
+
+myList.push(["milk",1])
+myList.push(["milk",1])
+myList.push(["milk",1])
+myList.push(["milk",1])
+myList.push(["milk",1])
